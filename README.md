@@ -1,2 +1,2 @@
 # python-redis-cluster
-python操作redis集群
+python 读取csv文件  操作redis集群和mysql
